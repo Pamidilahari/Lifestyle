@@ -1,4 +1,4 @@
-# future-ready-talent-project
+# LIFESTYLE PROJECT
 
 Industry Name : Lifestyle
 
